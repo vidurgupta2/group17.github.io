@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    background-color: brown;
+    width: max;
+    color: rgb(147, 180, 29);
+    padding-bottom: 15px;
+}
+
+
+
+.header-image {
+    
+    width: auto;
+    height: auto;
+    background-color: brown;
+    
+}
+
+.mainpic {
+    display: flex;
+    justify-content: flex-start;
+    width: auto;
+    height: 200px;
+}
+
+.container {
+    background-color: burlywood;
+}
+
