@@ -6,8 +6,6 @@
     padding-bottom: 15px;
 }
 
-
-
 .header-image {
     
     width: auto;
@@ -27,3 +25,10 @@
     background-color: burlywood;
 }
 
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+p, input, li {
+    font-family: 'Cabin', sans-serif;
+}
