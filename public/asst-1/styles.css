@@ -40,3 +40,7 @@ h1, h2, h3 {
 p, input, li {
     font-family: 'Cabin', sans-serif;
 }
+
+.no-symbol {
+    list-style-type: none;
+}
